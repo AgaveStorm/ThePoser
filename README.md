@@ -1,10 +1,12 @@
+[Plugin home](http://agavestorm.com/the-poser-for-mantis/ "The Poser for Mantis homepage")
+
 How to install:
-1. Copy ThePoser folder into plugins folder
-2. Open Mantis with browser
-3. Log in as administrator
-4. Go to Manage -> Manage Plugins
-5. Find ThePoser in the list
-6. Click Install
+-	Copy ThePoser folder into plugins folder
+-	Open Mantis with browser
+-	Log in as administrator
+-	Go to Manage -> Manage Plugins
+-	Find ThePoser in the list
+-	Click Install
 
 License:
 
