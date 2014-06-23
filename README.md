@@ -1,4 +1,4 @@
-[Plugin home](http://agavestorm.com/the-poser-for-mantis/ "The Poser for Mantis homepage")
+Plugin home: [http://agavestorm.com/the-poser-for-mantis/](http://agavestorm.com/the-poser-for-mantis/ "The Poser for Mantis homepage")
 
 How to install:
 -	Copy ThePoser folder into plugins folder
@@ -12,7 +12,7 @@ License:
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Agave Storm Inc. Canada, Toronto
+Copyright (c) 2014 [Agave Storm Inc. Canada, Toronto](http://agavestorm.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
