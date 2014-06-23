@@ -13,7 +13,7 @@ class ThePoserPlugin extends MantisPlugin {
 
         $this->author = 'Agave Storm Inc.';         # Author/team name
         $this->contact = 'agavestorm@gmail.com';        # Author/team e-mail address
-        $this->url = 'http://agavestorm.com/poser';            # Support webpage
+        $this->url = 'http://agavestorm.com/the-poser-for-mantis/';            # Support webpage
     }
     
     function hooks() {
